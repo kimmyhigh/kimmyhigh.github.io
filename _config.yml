@@ -2,7 +2,9 @@
 permalink: /blog/:year/:title/
 markdown: kramdown
 highlighter: pygments
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+
+host: 0.0.0.0
 
 paginate: 3
 paginate_path: "/blog/page/:num/"
@@ -15,29 +17,29 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
+title: Kim Sumin
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+url: http://kimsumin.me
+baseurl: "/kimsumin"
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+repo: https://github.com/kimmyhigh/kimmyhigh.github.io
+disqus_shortname: ""
+disqus_site_shortname: ""
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Sumin Kim
+  job: International Business Management Student
+  bio: ""
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: hello@kimsumin.me
+  url: https://kimsumin.me/
+  github: https://github.com/kimmyhigh
+  twitter: 
+  facebook: 
+  linkedin: 
 
 # navbar pages
 navbar:
