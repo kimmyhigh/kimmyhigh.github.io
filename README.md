@@ -1,4 +1,8 @@
-# end2end Clean Jekyll theme [![Build Status](https://travis-ci.org/nandomoreirame/end2end.svg?branch=master)](https://travis-ci.org/nandomoreirame/end2end)
+
+# kimmyhigh.github.io
+## Welcome to my site
+
+<!-- # end2end Clean Jekyll theme [![Build Status](https://travis-ci.org/nandomoreirame/end2end.svg?branch=master)](https://travis-ci.org/nandomoreirame/end2end)
 
 * [x] Clean layout
 * [x] Resposive layout
@@ -52,4 +56,4 @@ It is under [the MIT license](/LICENSE).
 > :warning:
   Please remove metas `<meta name="robots" content="noindex">` and `<meta name="googlebot" content="noindex">` in `source/_layouts/default.html`
 
-Enjoy :yum:
+Enjoy :yum: -->
